@@ -1,6 +1,8 @@
 <img src="https://user-images.githubusercontent.com/34389545/87249000-2d875f00-c422-11ea-9edc-22258a467999.png" align="center">
 <div align="center">
+ <strong>
  <p style="font-family: monospace">ＲｏｃｋＳｔｅａｄｙ</p> 
+ </strong>
 </div>
 <div align="center">
 <a href="https://turtlecoin.lol" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87250794-02eed380-c42d-11ea-95d9-311db041c20f.png"></a>
