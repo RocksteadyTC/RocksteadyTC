@@ -18,7 +18,6 @@
  <a href="https://setiathome.ssl.berkeley.edu/" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252237-05562b00-c437-11ea-9c64-89843f61ca32.gif"></a>
  <a href="https://www.youtube.com/watch?v=eTOKXCEwo_8" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252238-07b88500-c437-11ea-9353-01be99330e05.gif"></a>
  <a href="http://lenshellprogarchive.com/hell.html" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252240-0c7d3900-c437-11ea-9068-6f9ac57f04ce.gif"></a>
- <a href="https://getbootstrap.com/" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252242-1010c000-c437-11ea-9d5a-c05b004e0aef.png"></a>
  <a href="https://invisible-island.net/lynx/" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252369-00de4200-c438-11ea-8714-e119a216dc0e.gif"></a>
  <a href="https://www.archlinux.org/" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252378-253a1e80-c438-11ea-85ff-672bb68276b9.png"></a>
 </div>
