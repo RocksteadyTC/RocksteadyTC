@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/34389545/87249000-2d875f00-c422-11ea-9edc-22258a467999.png" align="center">
 <div align="center">
  <strong>
- <p style="font-family: monospace; font-size: 48px;">ＲｏｃｋＳｔｅａｄｙ</p> 
+ <p style="font-family: monospace;">ＲｏｃｋＳｔｅａｄｙ</p> 
  </strong>
 </div>
 <div align="center">
