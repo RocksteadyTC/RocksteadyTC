@@ -12,6 +12,7 @@
 <a href="https://voidlinux.org/" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87251422-451a1400-c431-11ea-9613-593c3631f286.png"></a>
  <a href="https://eff.org" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87251549-249e8980-c432-11ea-9dab-d61109819be4.png"></a>
  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252197-c7590700-c436-11ea-9299-e394bbb7ed5e.png"></a>
+ <br/>
  <a href="https://debian.org" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252215-dcce3100-c436-11ea-894d-f5525a7b0751.png"></a>
  <a href="https://firefox.com" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252224-ee173d80-c436-11ea-850d-7a43a90b3045.png"></a>
  <a href="https://setiathome.ssl.berkeley.edu/" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252237-05562b00-c437-11ea-9c64-89843f61ca32.gif"></a>
