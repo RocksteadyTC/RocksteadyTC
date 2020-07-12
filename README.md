@@ -21,5 +21,6 @@
  <a href="https://invisible-island.net/lynx/" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252369-00de4200-c438-11ea-8714-e119a216dc0e.gif"></a>
  <a href="https://www.archlinux.org/" target="_blank"><img src="https://user-images.githubusercontent.com/34389545/87252378-253a1e80-c438-11ea-85ff-672bb68276b9.png"></a>
 </div>
+<br/>
 <img src="https://user-images.githubusercontent.com/34389545/87249001-2f512280-c422-11ea-908c-92c130e40fc6.png" align="center">
 <img src="https://user-images.githubusercontent.com/34389545/87249008-3b3ce480-c422-11ea-852b-ef0a3566bd2e.png" align="center">
